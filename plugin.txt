@@ -1,0 +1,6 @@
+name: DiscordTicketPlugin
+version: '1.0-SNAPSHOT'
+main: org.server.deltadiscord.Main
+api-version: '1.13'
+commands:
+  문의:
